@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.accessibilitySupport": "on",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "arduino.useArduinoCli": true,
+    "window.zoomLevel": 1
+}
