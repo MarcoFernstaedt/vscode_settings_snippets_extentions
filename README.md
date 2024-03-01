@@ -1,0 +1,2 @@
+# vscode_settings_snippets_extentions
+VSCode Configurations
